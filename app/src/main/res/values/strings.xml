@@ -2,13 +2,20 @@
     <string name="app_name">Art Space Practice</string>
     <string name="previous">PREVIOUS</string>
     <string name="next">NEXT</string>
+    <string name="amen_phoenix_logo_cont_desc">Logo for Amen\'s personal work</string>
     <string name="amen_phoenix_logo_title">Amen Phoenix Logo</string>
     <string name="amen_phoenix_logo_artist">Nicholas Amen</string>
-    <string name="amen_phoenix_logo_year">(2021)</string>
+    <string name="amen_phoenix_logo_year">2021</string>
+    <string name="naomi_hat_cont_desc">Photo of Naomi in a sunhat</string>
     <string name="naomi_hat_title">Naomi in a Sunhat </string>
     <string name="naomi_hat_artist">Baozhu Zhang</string>
-    <string name="naomi_hat_year">(2023)</string>
+    <string name="naomi_hat_year">2023</string>
+    <string name="siacc23_trophies_cont_desc">Photo of trophies made for SIACC 2023</string>
     <string name="siacc23_trophies_title">SIACC 2023 Trophies</string>
     <string name="siacc23_trophies_artist">Nicholas Amen</string>
     <string name="siacc23_trophies_year">2023</string>
+    <string name="christmas_presents_cont_desc">Handmade gifts made of wood</string>
+    <string name="christmas_presents_title">Handmade Christmas Gifts</string>
+    <string name="christmas_presents_artist">Nicholas Amen</string>
+    <string name="christmas_presents_year">2021</string>
 </resources>
