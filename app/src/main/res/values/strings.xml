@@ -18,4 +18,8 @@
     <string name="christmas_presents_title">Handmade Christmas Gifts</string>
     <string name="christmas_presents_artist">Nicholas Amen</string>
     <string name="christmas_presents_year">2021</string>
+    <string name="archery_cont_desc">Three arrow shots</string>
+    <string name="archery_title">Three Shots</string>
+    <string name="archery_artist">Nicholas Amen</string>
+    <string name="archery_year">2017</string>
 </resources>

@@ -57,7 +57,7 @@ fun ArtSpaceApp() {
 @Composable
 fun ArtSpaceStructure() {
     var imageStepSeqNumber by remember { mutableStateOf(1) }
-    val maxImages = 4
+    val maxImages = 5
     val galleryImage = when(imageStepSeqNumber) {
         1 -> ArtGalleryImage(
             painterResource(R.drawable.amen_phoenix_logo),
@@ -86,6 +86,13 @@ fun ArtSpaceStructure() {
             stringResource(R.string.christmas_presents_title),
             stringResource(R.string.christmas_presents_artist),
             stringResource(R.string.christmas_presents_year)
+        )
+        5 -> ArtGalleryImage(
+            painterResource(R.drawable.archery),
+            stringResource(R.string.archery_cont_desc),
+            stringResource(R.string.archery_title),
+            stringResource(R.string.archery_artist),
+            stringResource(R.string.archery_year)
         )
         else -> ArtGalleryImage(
             painterResource(R.drawable.ic_launcher_background),
